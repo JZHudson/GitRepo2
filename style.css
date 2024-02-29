@@ -1,0 +1,57 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #222222;
+    padding: 15px;
+}
+header nav li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 20px;
+}
+header nav{
+    margin-right: 20px;
+    margin-left: 1200px;
+    margin-top: -50px;
+}
+.content .sidebar{
+    margin: 50px;
+    background-color: #222222;
+
+}
+.content nav ul{
+    list-style-type: none;
+    margin: 30px;
+}
+.content nav li{
+    margin: 20px;
+}
+.content{
+display: flex;
+}
+footer{
+    text-align: center;
+
+}
+footer a{
+    margin: 20px;
+}
+.content{
+    display: flex;
+}
+.mainbody h1{
+    text-align: center;
+}
+footer .Copyright{
+    color: darkgray;
+    font-size: small;
+}
+.picture {
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
+
+
